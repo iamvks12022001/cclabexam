@@ -17,7 +17,6 @@ import {
 import { Pagination } from "@material-ui/lab";
 import swal from "sweetalert";
 const axios = require("axios");
-//import user from "../backend/model/user";
 
 export default class Dashboard extends Component {
   constructor() {
